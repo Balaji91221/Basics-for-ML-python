@@ -26,5 +26,5 @@ To run the code in this repository, you will need to install Python 3 and severa
 
 pip install numpy pandas
 
-## Usage
+# Usage
 Each day's code is contained in a separate Jupyter Notebook file. To run a notebook, simply open it in Jupyter and execute the code cells. The notebooks are designed to be self-contained, so you should be able to run them without any additional setup.
