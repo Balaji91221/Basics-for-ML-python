@@ -1,7 +1,7 @@
-Python for Machine Learning
+## Python for Machine Learning
 This repository contains code and examples for a 17-day Python for Machine Learning course. Each day covers a different topic related to Python and Machine Learning, with mini-projects to help reinforce your learning.
 
-Table of Contents
+## Table of Contents
 
 Day 1: Introduction to Python & How to Start with Python? Variables in Python, Strings in Python, String Formatting in Python
 
